@@ -11,7 +11,7 @@ Allow: /
 # Crawl-delay: 5
 
 # Sitemaps for main & AMP pages
-Sitemap: https://ck44hot.netlify.app/sitemap.xml
+Sitemap: https://ck44hot.vercel.app/sitemap.xml
 
 # Prevent access to temporary folders (if any)
 Disallow: /temp/
@@ -29,4 +29,4 @@ User-agent: Yandex
 Allow: /
 
 # Additional signals
-Host: ck44hot.netlify.app
+Host: ck44hot.vercel.app/
