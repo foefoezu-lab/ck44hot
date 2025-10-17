@@ -1,0 +1,32 @@
+# ===============================
+# ROBOTS.TXT for CK44 Bangladesh
+# Author: GPT-5 SEO Assistant
+# Updated: 2025-10-17
+# ===============================
+
+User-agent: *
+Allow: /
+
+# Crawl-delay optional (biarkan Google bebas merayapi)
+# Crawl-delay: 5
+
+# Sitemaps for main & AMP pages
+Sitemap: https://ck44hot.netlify.app/sitemap.xml
+
+# Prevent access to temporary folders (if any)
+Disallow: /temp/
+Disallow: /drafts/
+Disallow: /test/
+
+# Index everything else (SEO boost)
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Yandex
+Allow: /
+
+# Additional signals
+Host: ck44hot.netlify.app
