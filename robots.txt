@@ -29,4 +29,4 @@ User-agent: Yandex
 Allow: /
 
 # Additional signals
-Host: ck44vip.vercel.app/
+Host: ck44vip.vercel.app
