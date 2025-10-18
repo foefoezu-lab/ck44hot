@@ -27,26 +27,26 @@
 
   <!-- 🎰 Game related keywords -->
   <url>
-    <loc>https://ck44vip.vercel.app//aviator-bangladesh</loc>
+    <loc>https://ck44vip.vercel.app/aviator-bangladesh</loc>
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
   </url>
 
   <url>
-    <loc>https://ck44vip.vercel.app//jili-bangladesh</loc>
+    <loc>https://ck44vip.vercel.app/jili-bangladesh</loc>
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
   </url>
 
   <url>
-    <loc>https://ck44vip.vercel.app//ck44-bangladesh-vip</loc>
+    <loc>https://ck44vip.vercel.app/ck44-bangladesh-vip</loc>
     <priority>0.7</priority>
     <changefreq>weekly</changefreq>
   </url>
 
   <!-- 📰 News (optional section for Google News) -->
   <url>
-    <loc>https://ck44vip.vercel.app//news</loc>
+    <loc>https://ck44vip.vercel.app/news</loc>
     <priority>0.6</priority>
     <changefreq>weekly</changefreq>
   </url>
